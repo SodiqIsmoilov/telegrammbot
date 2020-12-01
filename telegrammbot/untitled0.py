@@ -1,0 +1,10 @@
+file = open('answer.txt')
+
+
+
+
+
+
+
+
+
